@@ -21,5 +21,5 @@ Seat Selection
 ![Screenshot 2023-09-05 162926](https://github.com/Susma261/Movie-Ticket-Booking-System/assets/69312974/83347ef8-1102-4dbd-a7a8-577e4ca3cad9)
 
 Printing Booking Details
-![Uploading Screenshot 2023-09-05 162945.png…]()
 
+![Screenshot 2023-09-05 162945](https://github.com/Susma261/Movie-Ticket-Booking-System/assets/69312974/bed579b6-564d-45c5-9215-0de3180f9ef8)
