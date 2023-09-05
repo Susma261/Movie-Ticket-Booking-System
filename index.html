@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Seat Booking</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="qrcode.min.js"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <h1><center>Select Your Seats</center></h1>
+        <div class="screen">Screen</div>
+        <div class="seats">
+        </div>
+        <div class="ticket-info">
+            <p>Selected Seats:</p>
+            <ul id="selected-seats-list"></ul>
+            <p>Total Price: $<span id="total-price">0.00</span></p>
+        </div>
+        <button id="book-button" disabled>Book Selected Seats</button>
+        <button id="print-button" disabled>Print Tickets</button>
+        <a href ="Details.php" button id="print-button" disabled>Booking Details</a>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
